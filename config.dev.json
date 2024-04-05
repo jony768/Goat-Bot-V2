@@ -22,14 +22,14 @@
     "61555393416824"
   ],
   "whiteListMode": {
-    "enable": false,
+    "enable": true,
     "whiteListIds": [
       "100087967063688",
       "61555393416824"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ScARLETT",
+  "nickNameBot": "💎ChesCA",
   "prefix": "-",
   "database": {
     "type": "sqlite",
